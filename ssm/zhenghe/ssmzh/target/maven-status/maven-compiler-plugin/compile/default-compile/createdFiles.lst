@@ -1,0 +1,5 @@
+com\douk\controller\BookController.class
+com\douk\service\BookServiceImpl.class
+com\douk\service\BookService.class
+com\douk\dao\BookMapper.class
+com\douk\pojo\Books.class
